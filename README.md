@@ -11,13 +11,13 @@ Predicts which telecom customers are likely to cancel their service using machin
 
 ## Tech Stack
 
-- **Python** — Pandas, NumPy
-- **Scikit-learn** — Logistic Regression, Random Forest, preprocessing, metrics
-- **XGBoost** — gradient boosted classifier
+- **Python** - Pandas, NumPy
+- **Scikit-learn** - Logistic Regression, Random Forest, preprocessing, metrics
+- **XGBoost** - gradient boosted classifier
 
 ## Dataset
 
-Telco Customer Churn — download from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place in the `/data` folder.
+Telco Customer Churn - download from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place in the `/data` folder.
 
 ## Results
 
